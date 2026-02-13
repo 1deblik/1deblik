@@ -1,6 +1,10 @@
 <h1 align="center">1deblik</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&pause=1200&color=0E75B6&center=true&vCenter=true&width=500&lines=Web+Application+Developer;Lua+%26+Luau+Systems+Engineer;Advanced+Code+Obfuscation;Security-Focused+Builder" />
+</p>
+
+<p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyMnlyMThjc3d3Z3J2bXNmaDI0a2JlMm1naHpvaW95dTR6enhoMHdpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dhno6889b9IHQu0WIc/giphy.gif" width="600" />
 </p>
 
@@ -12,14 +16,14 @@
 
 ---
 
-### about
+## About
 
-developer focused on building **web applications**, **lua systems**, and **advanced obfuscation**  
-projects are designed to be **fast**, **secure**, and **hard to reverse**
+I focus on building **web applications**, **Lua/Luau systems**, and **advanced obfuscation solutions**.  
+My work prioritizes **performance**, **security**, and **reverse-engineering resistance**.
 
 ---
 
-### languages
+## Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white" />
@@ -33,46 +37,43 @@ projects are designed to be **fast**, **secure**, and **hard to reverse**
 
 ---
 
-### what i build
+## What I Build
 
-- full stack webapps  
-- lua / luau systems & tooling  
-- code obfuscation & protection layers  
-- custom runtimes and logic engines  
-- reverse engineering resistant designs  
-
----
-
-### github stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1deblik&show_icons=true&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1deblik&layout=compact&theme=default&hide_border=true" />
-</p>
+- Web-based applications  
+- Lua and Luau systems  
+- Code obfuscation and protection layers  
+- Secure runtime logic  
+- Reverse-engineering resistant designs  
 
 ---
 
-### activity
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1deblik&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1deblik&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1deblik&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1deblik&hide_border=true" />
 </p>
 
 ---
 
-### focus
+## Focus
 
-- performance first  
-- security by design  
-- obfuscation at scale  
-- clean architecture  
+- High-performance systems  
+- Obfuscation at scale  
+- Secure architecture  
+- Clean and maintainable design  
 
 ---
 
-### note
+## Style Note
 
-building tools meant to last  
-not meant to be read
+Built to be efficient.  
+Designed to be protected.  
+Not intended to be easily read.
